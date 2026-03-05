@@ -1,0 +1,20 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly handle Unity text files as text
+*.cs text
+*.shader text
+*.txt text
+*.json text
+*.asmdef text
+*.asmref text
+*.xml text
+
+# Ignore binary files
+*.png binary
+*.jpg binary
+*.prefab binary
+*.unity binary
+*.asset binary
+*.fbx binary
+*.wav binary
